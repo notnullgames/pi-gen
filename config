@@ -1,0 +1,8 @@
+IMG_NAME=pakemon
+TARGET_HOSTNAME=pakemon
+KEYBOARD_KEYMAP=us
+KEYBOARD_LAYOUT="English (US)"
+TIMEZONE_DEFAULT="America/Los_Angeles"
+FIRST_USER_NAME="pakemon"
+FIRST_USER_PASS="pakemon"
+STAGE_LIST="stage0 stage1 stage_pakemon"
