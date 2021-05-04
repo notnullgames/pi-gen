@@ -2,6 +2,10 @@
 
 Tool used to create Raspberry Pi OS images. (Previously known as Raspbian).
 
+## Note:
+
+This has been modified to build out pakemon-os images. See [this](https://github.com/notnullgames/pakemon/wiki/Projects) for a full breakdown of the Pakémon ecosystem.
+
 
 ## Dependencies
 
