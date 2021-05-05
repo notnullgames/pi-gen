@@ -1,8 +1,9 @@
 #!/bin/bash
 
 wget https://github.com/notnullgames/pakemon-ppa/releases/download/0.0.0/love_11.2.pre3458ppa1_armhf.deb
+wget https://github.com/notnullgames/pakemon-ppa/releases/download/0.0.0/liblove0_11.2.pre3458ppa1_armhf.deb
 
-apt-get install -y ./love_11.2.pre3458ppa1_armhf.deb
+apt-get install -y ./liblove0_11.2.pre3458ppa1_armhf.deb ./love_11.2.pre3458ppa1_armhf.deb
 
 rm love_11.2.pre3458ppa1_armhf.deb
 
